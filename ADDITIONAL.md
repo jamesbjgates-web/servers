@@ -44,6 +44,7 @@ This is a curated collection of community-built frameworks and resources that si
 
 ## 📚 Resources
 
+- **[jamesbjgates-web/ctcc-mcp](https://github.com/jamesbjgates-web/ctcc-mcp)** 🐍 ☁️ - Deterministic smart-contract control, ownership, and authority inspection on Base Mainnet via x402 micropayments ($0.01 USDC).
 - **[A2A-MCP Java Bridge](https://github.com/vishalmysore/a2ajava)** - A2AJava brings powerful A2A-MCP integration directly into your Java applications. It enables developers to annotate standard Java methods and instantly expose them as MCP Server, A2A-discoverable actions — with no boilerplate or service registration overhead.
 - **[AiMCP](https://www.aimcp.info)** - A collection of MCP clients&servers to find the right mcp tools by **[Hekmon](https://github.com/hekmon8)**
 - **[Awesome Crypto MCP Servers by badkk](https://github.com/badkk/awesome-crypto-mcp-servers)** - A curated list of MCP servers by **[Luke Fan](https://github.com/badkk)**
